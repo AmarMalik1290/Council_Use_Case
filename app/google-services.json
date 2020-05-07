@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "478238642035",
+    "firebase_url": "https://councilusecase.firebaseio.com",
+    "project_id": "councilusecase",
+    "storage_bucket": "councilusecase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478238642035:android:1605f9da93b92d93247f06",
+        "android_client_info": {
+          "package_name": "com.example.councilusecase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478238642035-6bgr3is6csuk8ns4b6tihlrig5fgp9r7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC4HgM1RVEqTuiWAK6PvGd5A-dIm8ILSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478238642035-6bgr3is6csuk8ns4b6tihlrig5fgp9r7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+rootProject.name='Council Use Case'
+include ':app'
